@@ -3,6 +3,7 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
+---
 
 Summary
 ========
@@ -17,9 +18,6 @@ water infrastructure systems and enhance the coordination between interdependent
 
 Projects
 ========
----
-
-
 
 {% include base_path %}
 
