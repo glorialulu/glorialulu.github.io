@@ -15,11 +15,11 @@ Research
 
 My research interest is to leverage numerical modeling, algorithm development, remote sensing,
 and artificial intelligence to
-(1) develop physics-based and data-driven models to achieve high-performance modeling of
+* develop physics-based and data-driven models to achieve high-performance modeling of
 water infrastructure systems and enhance the coordination between
 interdependent urban infrastructure systems;
-(2) improve the operation, control, and management of water infrastructure systems; and,
-(3) promote the integration of technical and social components in the development of smart cities.
+* improve the operation, control, and management of water infrastructure systems; and,
+* promote the integration of technical and social components in the development of smart cities.
 
 
 
