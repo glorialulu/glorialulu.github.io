@@ -8,9 +8,9 @@ date: 2018-01
 location: "Austin, Texas"
 ---
 
-Role: "Teaching assistant"
+Role: Teaching assistant
 
-Semester: "Spring 2018"
+Semester: Spring 2018
 
 * Prepared and delivered 45-min lecture during class laboratory sessions to discuss how to use statistics and probability to solve practical problem as civil engineers.
 * Held office hours for further discussions.
