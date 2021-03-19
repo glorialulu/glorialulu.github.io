@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "Probability/Statistics for Civil Engineers"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "the University of Texas at Austin, Department of Civil, Architectual, and Environmental Engineering"
+date: Spring 2018
+location: "Austin, Texas"
+role: Teaching assistant
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* Prepared and delivered 45-min lecture during class laboratory sessions to discuss how to use statistics and probability to solve practical problem as civil engineers.
+* Held office hours for further discussions.
