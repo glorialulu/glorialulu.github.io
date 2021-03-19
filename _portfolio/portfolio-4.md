@@ -1,6 +1,6 @@
 ---
 title: "Graph Neural Networks for State Estimation"
-excerpt: ": Learning-based approach for state estimation in water distribution systems <br/><img src='/images/gnn.png'>"
+excerpt: "Learning-based approach for state estimation in water distribution systems <br/><img src='/images/gnn.png'>"
 collection: portfolio
 ---
 
