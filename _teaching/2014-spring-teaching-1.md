@@ -9,5 +9,5 @@ location: "Austin, TX"
 role: Teaching assistant
 ---
 
-* Designed laboratory demonstrations to illustrate the concepts covered in lectures
-* Directed 120-min lab sessions for 15 students three times a week
+* Designed laboratory demonstrations to illustrate the concepts covered in lectures.
+* Directed 120-min lab sessions for 15 students three times a week.
