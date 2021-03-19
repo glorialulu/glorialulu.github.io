@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "the University of Texas at Austin, Department of Civil, Architectual, and Environmental Engineering"
-date: 2018-01
+date: 2018-01-01
 location: "Austin, Texas"
 ---
 
