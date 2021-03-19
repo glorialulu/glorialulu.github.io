@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Ph.D. candidate at the University of Texas, graduating on August, 2021. My supervisor is Dr. Lina Sela.
+Hi, I am Ph.D. candidate at the University of Texas, graduating on August, 2021. My supervisor is [Dr. Lina Sela](https://sela.caee.utexas.edu).
 
 Research
 ========
