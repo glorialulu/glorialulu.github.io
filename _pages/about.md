@@ -10,10 +10,10 @@ redirect_from:
 
 Hi, I am Ph.D. candidate at the University of Texas, graduating on August, 2021. My supervisor is Dr. Lina Sela.
 
-- Research
-- ========
+Research
+========
 
-- My research interest is to leverage numerical modeling, algorithm development, remote sensing,
+My research interest is to leverage numerical modeling, algorithm development, remote sensing,
 and artificial intelligence to
 (1) develop physics-based and data-driven models to achieve high-performance modeling of
 water infrastructure systems and enhance the coordination between
