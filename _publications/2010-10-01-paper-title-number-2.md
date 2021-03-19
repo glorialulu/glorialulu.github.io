@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Transient simulations in water distribution networks: TSNet python package"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'This paper contributed the first open-soure and general-purpose Python package for transient simulation in water networks.'
+date: 2020-11-01
+venue: 'Advances in Engineering Software'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0965997819309342'
+citation: 'Xing, L., & Sela, L. (2020). Transient simulations in water distribution networks: TSNet python package. Advances in Engineering Software, 149, 102884.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+This paper contributed the first open-soure and general-purpose Python package for transient simulation in water networks.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S0965997819309342)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Xing, L., & Sela, L. (2020). Transient simulations in water distribution networks: TSNet python package. Advances in Engineering Software, 149, 102884.
