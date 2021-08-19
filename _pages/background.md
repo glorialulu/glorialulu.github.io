@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Civil, Architecture and Environmental Engineering, The University of Texas at Austin, (expected) August 2021
+* Ph.D. in Civil, Architecture and Environmental Engineering, The University of Texas at Austin, August 2021
 * M.S. in Statistics, The University of Texas at Austin, December 2020
 * M.S. in Civil, Architecture and Environmental Engineering, The University of Texas at Austin, May 2018
 * B.S. in Naval Architecture and Marine Engineering, Tianjin University, China, June 2016
