@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am postdotoral researcher in the Department of Civil, Architectual, and Environmental Engineering at the University of Texas at Austin.
-My supervisor is [Dr. Lina Sela](https://sela.caee.utexas.edu).
+Hi, I am data scientist at Xylem Inc., a water company.  In what I do, there is a mix of hydraulic modeling and data analysis.
 
-* I graduated from UT Austin with Ph.D. in August, 2021.
+* I joined Xylem Inc. in January, 2022.
+* I graduated from UT Austin with Ph.D. in August, 2021. My supervisor is [Dr. Lina Sela](https://sela.caee.utexas.edu).
 * I defended my Ph.D. dissertation on March 22nd, 2021.
 * I am an enthusiast in smart cities and IoT.
 * I love teaching engineering, statistics, and programming.
